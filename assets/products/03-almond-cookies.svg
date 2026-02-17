@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Almond Cookies">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffdca8"/>
+      <stop offset="100%" stop-color="#f3b35a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g)"/>
+  <circle cx="980" cy="140" r="120" fill="#fff1d7" opacity="0.7"/>
+  <circle cx="150" cy="680" r="160" fill="#ffebc4" opacity="0.6"/>
+  <text x="600" y="380" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="72" font-weight="700" fill="#7b3100">Almond Cookies</text>
+  <text x="600" y="455" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="30" fill="#8e4b1f">Ganti gambar ini di assets/products/03-almond-cookies.svg</text>
+</svg>
